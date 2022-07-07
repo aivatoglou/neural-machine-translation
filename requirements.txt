@@ -1,0 +1,10 @@
+fastapi==0.75.2
+EasyNMT==2.0.1
+pymongo[srv]==4.1.1
+uvicorn==0.11.3
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.5
+cryptography==37.0.2
+python-jose==3.3.0
+pandas==1.3.3
